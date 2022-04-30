@@ -1,3 +1,3 @@
 # MimicApp-Api
 
-API para manipulação dados desenvolida para ser consumida pelo APP Mimic 
+API para manipulação dados desenvolvida para ser consumida pelo APP Mimic 
